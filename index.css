@@ -197,11 +197,12 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 auto;
   color: white;
-  position: relative;
+  position: fixed;
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 1rem;
+  padding: .125rem 1rem;
+  background-color: #3c3c47;
   text-align: center;
 }
 
