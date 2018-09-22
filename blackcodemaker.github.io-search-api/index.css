@@ -109,6 +109,62 @@ h1 > span {
   letter-spacing: .04em;
 }
 
+#fixed_menu {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: .25em;
+  margin-top: 3.25rem;
+  background-color: #3c3c47;
+  padding: 0rem 1rem 0 1rem;
+  list-style-type: none;
+  font-size: 60px;
+  text-decoration: none;
+  line-height: 40px;
+}
+
+a.wiki-results{
+    color: #36acf2;
+    text-decoration: none;
+}
+
+a.yt-results{
+    color: #fece04;
+    text-decoration: none;
+}
+
+a.gb-results {
+    color: #0058ca;
+    text-decoration: none;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: black;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 12px;
+    position: absolute;
+    z-index: 1;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    top: -5px;
+    bottom: auto;
+    right: 128%;
+}
+
 .background, .background-bottom {
   background-repeat: no-repeat;
   background-size: cover;
@@ -135,6 +191,20 @@ p {
 .start {
   text-align: center;
   margin: 20px;
+}
+
+#testFooter {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 981px;
+  margin: 0 auto 8px;
+  text-shadow: 0 1px 0px #fff;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  /*background-color: #FECE06;*/
+  text-align: center;
 }
 
 /* general form styles */
