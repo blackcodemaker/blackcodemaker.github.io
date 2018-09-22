@@ -205,9 +205,10 @@ p {
   text-align: center;
 }
 
-p.contact {
-  color: white;
-  line-height: 0.75rem;
+p.contact { color: white; 
+  line-height: 0.75rem; 
+  display: inline-block; 
+  padding-right: 20px; 
 }
 
 /* general form styles */
