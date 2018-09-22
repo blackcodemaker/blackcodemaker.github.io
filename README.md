@@ -5,6 +5,10 @@ Summary
 =======
 This is an app that allows the user to enter a desired topic and receive the top results from the best digital sources on the internet.
 
+Link
+====
+https://blackcodemaker.github.io/blackcodemaker.github.io-search-API/
+
 Screenshots
 ===========
 ![image](https://user-images.githubusercontent.com/5036300/45921454-c2deeb00-be6a-11e8-8634-8857f722a82d.png)
