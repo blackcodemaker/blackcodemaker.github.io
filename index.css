@@ -35,6 +35,11 @@ body {
   padding: 0;
 }
 
+a:visited, a:link {
+  text-decoration: none;
+  color: white;
+}
+
 button, input {
   border-radius: 5px;
   box-shadow: 4px 4px 20px;
@@ -306,7 +311,10 @@ img.yt-thumb {
     font-size: 10px;
     box-shadow: 4px 4px 10px;
   }
- }
+  .gb-2 {
+    width: 100%;
+  }
+}
 @media only screen and (min-width: 641px) {
   .yt-row, .gb-row  {
       overflow: hidden;
