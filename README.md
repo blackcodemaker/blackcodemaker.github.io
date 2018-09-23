@@ -12,7 +12,7 @@ https://blackcodemaker.github.io/blackcodemaker.github.io-search-API/
 Screenshots
 ===========
 ![](/uploads/5036300/45921454-c2deeb00-be6a-11e8-8634-8857f722a82d.png)
-<img src="https://user-images.githubusercontent.com/5036300/45921454-c2deeb00-be6a-11e8-8634-8857f722a82d.png"  width="150" height="150">
+<img src="https://user-images.githubusercontent.com/5036300/45921454-c2deeb00-be6a-11e8-8634-8857f722a82d.png"  width="250" height="250">
 ![image](https://user-images.githubusercontent.com/5036300/45921454-c2deeb00-be6a-11e8-8634-8857f722a82d.png)
 ![image](https://user-images.githubusercontent.com/5036300/45921455-cd00e980-be6a-11e8-8292-f1c1079e2baa.png)
 ![image](https://user-images.githubusercontent.com/5036300/45921461-d12d0700-be6a-11e8-932b-fed77d07c567.png)
