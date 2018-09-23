@@ -18,7 +18,7 @@ Screenshots
 ![](/uploads/5036300/45921463-d8541500-be6a-11e8-8e10-97fb746b2245.png)
 <img src="https://user-images.githubusercontent.com/5036300/45921463-d8541500-be6a-11e8-8e10-97fb746b2245.png"  max-width="100%" width="250" height="auto">
 ![](/uploads/5036300/45921461-d12d0700-be6a-11e8-932b-fed77d07c567.png)
-<img src="https://user-images.githubusercontent.com/5036300/45921461-d12d0700-be6a-11e8-932b-fed77d07c567.png"  max-width="100%" height="250">
+<img src="https://user-images.githubusercontent.com/5036300/45921461-d12d0700-be6a-11e8-932b-fed77d07c567.png"  max-width="100%" width="250" height="auto">
 ![](/uploads/5036300/45921462-d4c08e00-be6a-11e8-8c6b-4ca27bc8b5d4.png)
 <img src="https://user-images.githubusercontent.com/5036300/45921462-d4c08e00-be6a-11e8-8c6b-4ca27bc8b5d4.png"  max-width="100%" width="250" height="auto">
 
